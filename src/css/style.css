@@ -1,6 +1,10 @@
 body{
     background-color: #f3f2ef;
 }
+
+body > div.container {
+
+}
 /* ????? */
 .navbar-border-bottom{
     border-bottom: black;
@@ -48,8 +52,9 @@ body{
 
 }
 
-#border-button:focus{
+#border-button{
     outline: none !important;
+    border: none;
 }
 
 
@@ -63,7 +68,7 @@ span>button:focus{
 }
 
 ul>li>a {
-    color: rgb(159, 154, 154);
+    color: #9f9a9a;
     padding: 7px;
     font-size: 12px;
 }
