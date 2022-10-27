@@ -1,0 +1,12 @@
+// html etiketleri için tanımlanan cssler.
+// root düzeyde
+
+body {
+  background: $bg-light;
+  color: $text-color;
+  font-family: $font-family-sans-serif;
+}
+
+table {
+  width: 100%;
+}

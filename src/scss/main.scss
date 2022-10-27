@@ -1,0 +1,17 @@
+@import "bootstrap";
+// /* tanımladığımız değişkenleri "import" ederek kullanıyoruz. */
+// @import "variables.scss";
+
+// /* google font dosyasını çekiyoruz */
+// @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+
+// @import "reboot.scss";
+// @import "base.scss";
+// @import "coffee-order-app.scss";
+// @import "coffee-type.sprite.scss";
+
+@import "bootstrap";
+
+.coffee-types-form {
+  max-width: 480px;
+}
